@@ -1,0 +1,90 @@
+2024-04-11 13:34:47,402 : Test_CredKart_Login : test_page_title_001 : 17 :this is info : INFO
+2024-04-11 13:34:47,403 : Test_CredKart_Login : test_page_title_001 : 18 :this is warning : WARNING
+2024-04-11 13:34:47,403 : Test_CredKart_Login : test_page_title_001 : 19 :this is error : ERROR
+2024-04-11 13:34:47,403 : Test_CredKart_Login : test_page_title_001 : 20 :this is critical : CRITICAL
+2024-04-11 13:34:47,403 : Test_CredKart_Login : test_page_title_001 : 22 :stared test case test_page_title_001 : INFO
+2024-04-11 13:34:47,403 : Test_CredKart_Login : test_page_title_001 : 23 :Opening the browser : INFO
+2024-04-11 13:34:48,430 : Test_CredKart_Login : test_page_title_001 : 30 :checking the page titleCredKart : INFO
+2024-04-11 13:34:48,650 : Test_CredKart_Login : test_page_title_001 : 33 :taking the screenshots : INFO
+2024-04-11 13:34:48,702 : Test_CredKart_Login : test_page_title_001 : 36 :Testcase test_login.py  is passed : INFO
+2024-04-11 13:34:48,703 : Test_CredKart_Login : test_page_title_001 : 46 :Testcase is completed : INFO
+2024-04-11 13:34:52,418 : Test_CredKart_Login : test_Login_002 : 52 :Opening the browser : INFO
+2024-04-11 13:34:53,114 : Test_CredKart_Login : test_Login_002 : 59 :Entering the mail : INFO
+2024-04-11 13:34:53,213 : Test_CredKart_Login : test_Login_002 : 64 :Entering the Password : INFO
+2024-04-11 13:34:55,971 : Test_CredKart_Login : test_Login_002 : 67 :click login button : INFO
+2024-04-11 13:34:58,986 : Test_CredKart_Login : test_Login_002 : 70 :checking the login status : INFO
+2024-04-11 13:34:58,986 : Test_CredKart_Login : test_Login_002 : 72 :login is sucessfull : INFO
+2024-04-11 13:35:05,155 : Test_CredKart_Login : test_Login_002 : 77 :taking the screenshots : INFO
+2024-04-11 13:35:05,155 : Test_CredKart_Login : test_Login_002 : 83 :Testcase is completed : INFO
+2024-04-12 00:45:17,416 : Test_CredKart_Login : test_page_title_001 : 17 :this is info : INFO
+2024-04-12 00:45:17,416 : Test_CredKart_Login : test_page_title_001 : 18 :this is warning : WARNING
+2024-04-12 00:45:17,416 : Test_CredKart_Login : test_page_title_001 : 19 :this is error : ERROR
+2024-04-12 00:45:17,416 : Test_CredKart_Login : test_page_title_001 : 20 :this is critical : CRITICAL
+2024-04-12 00:45:17,416 : Test_CredKart_Login : test_page_title_001 : 22 :stared test case test_page_title_001 : INFO
+2024-04-12 00:45:17,416 : Test_CredKart_Login : test_page_title_001 : 23 :Opening the browser : INFO
+2024-04-12 00:45:17,628 : Test_CredKart_Login : test_Login_002 : 52 :Opening the browser : INFO
+2024-04-12 00:45:18,515 : Test_CredKart_Login : test_Login_002 : 59 :Entering the mail : INFO
+2024-04-12 00:45:18,661 : Test_CredKart_Login : test_Login_002 : 64 :Entering the Password : INFO
+2024-04-12 00:45:20,314 : Test_CredKart_Login : test_page_title_001 : 30 :checking the page titleCredKart : INFO
+2024-04-12 00:45:20,578 : Test_CredKart_Login : test_page_title_001 : 33 :taking the screenshots : INFO
+2024-04-12 00:45:20,714 : Test_CredKart_Login : test_page_title_001 : 36 :Testcase test_login.py  is passed : INFO
+2024-04-12 00:45:20,714 : Test_CredKart_Login : test_page_title_001 : 46 :Testcase is completed : INFO
+2024-04-12 00:45:21,314 : Test_CredKart_Login : test_Login_002 : 67 :click login button : INFO
+2024-04-12 00:45:24,343 : Test_CredKart_Login : test_Login_002 : 70 :checking the login status : INFO
+2024-04-12 00:45:24,343 : Test_CredKart_Login : test_Login_002 : 72 :login is sucessfull : INFO
+2024-04-12 00:45:30,597 : Test_CredKart_Login : test_Login_002 : 77 :taking the screenshots : INFO
+2024-04-12 00:45:30,597 : Test_CredKart_Login : test_Login_002 : 83 :Testcase is completed : INFO
+2024-04-12 12:27:31,238 : Test_CredKart_Login : test_page_title_001 : 17 :this is info : INFO
+2024-04-12 12:27:31,239 : Test_CredKart_Login : test_page_title_001 : 18 :this is warning : WARNING
+2024-04-12 12:27:31,239 : Test_CredKart_Login : test_page_title_001 : 19 :this is error : ERROR
+2024-04-12 12:27:31,239 : Test_CredKart_Login : test_page_title_001 : 20 :this is critical : CRITICAL
+2024-04-12 12:27:31,239 : Test_CredKart_Login : test_page_title_001 : 22 :stared test case test_page_title_001 : INFO
+2024-04-12 12:27:31,239 : Test_CredKart_Login : test_page_title_001 : 23 :Opening the browser : INFO
+2024-04-12 12:27:32,313 : Test_CredKart_Login : test_page_title_001 : 30 :checking the page titleCredKart : INFO
+2024-04-12 12:27:32,564 : Test_CredKart_Login : test_page_title_001 : 33 :taking the screenshots : INFO
+2024-04-12 12:27:32,686 : Test_CredKart_Login : test_page_title_001 : 36 :Testcase test_login.py  is passed : INFO
+2024-04-12 12:27:32,692 : Test_CredKart_Login : test_page_title_001 : 46 :Testcase is completed : INFO
+2024-04-12 12:27:39,295 : Test_CredKart_Login : test_Login_002 : 52 :Opening the browser : INFO
+2024-04-12 12:27:40,618 : Test_CredKart_Login : test_Login_002 : 59 :Entering the mail : INFO
+2024-04-12 12:27:40,754 : Test_CredKart_Login : test_Login_002 : 64 :Entering the Password : INFO
+2024-04-12 12:27:43,039 : Test_CredKart_Login : test_Login_002 : 67 :click login button : INFO
+2024-04-12 12:27:46,063 : Test_CredKart_Login : test_Login_002 : 70 :checking the login status : INFO
+2024-04-12 12:27:46,066 : Test_CredKart_Login : test_Login_002 : 72 :login is sucessfull : INFO
+2024-04-12 12:27:52,300 : Test_CredKart_Login : test_Login_002 : 77 :taking the screenshots : INFO
+2024-04-12 12:27:52,300 : Test_CredKart_Login : test_Login_002 : 83 :Testcase is completed : INFO
+2024-04-12 13:04:27,958 : Test_CredKart_Login : test_page_title_001 : 17 :this is info : INFO
+2024-04-12 13:04:27,958 : Test_CredKart_Login : test_page_title_001 : 18 :this is warning : WARNING
+2024-04-12 13:04:27,959 : Test_CredKart_Login : test_page_title_001 : 19 :this is error : ERROR
+2024-04-12 13:04:27,959 : Test_CredKart_Login : test_page_title_001 : 20 :this is critical : CRITICAL
+2024-04-12 13:04:27,959 : Test_CredKart_Login : test_page_title_001 : 22 :stared test case test_page_title_001 : INFO
+2024-04-12 13:04:27,959 : Test_CredKart_Login : test_page_title_001 : 23 :Opening the browser : INFO
+2024-04-12 13:04:30,327 : Test_CredKart_Login : test_page_title_001 : 30 :checking the page titleCredKart : INFO
+2024-04-12 13:04:30,670 : Test_CredKart_Login : test_page_title_001 : 33 :taking the screenshots : INFO
+2024-04-12 13:04:30,795 : Test_CredKart_Login : test_page_title_001 : 36 :Testcase test_login.py  is passed : INFO
+2024-04-12 13:04:30,795 : Test_CredKart_Login : test_page_title_001 : 46 :Testcase is completed : INFO
+2024-04-12 13:04:31,768 : Test_CredKart_Login : test_Login_002 : 52 :Opening the browser : INFO
+2024-04-12 13:04:32,686 : Test_CredKart_Login : test_Login_002 : 59 :Entering the mail : INFO
+2024-04-12 13:04:32,892 : Test_CredKart_Login : test_Login_002 : 64 :Entering the Password : INFO
+2024-04-12 13:04:36,369 : Test_CredKart_Login : test_Login_002 : 67 :click login button : INFO
+2024-04-12 13:04:39,398 : Test_CredKart_Login : test_Login_002 : 70 :checking the login status : INFO
+2024-04-12 13:04:39,399 : Test_CredKart_Login : test_Login_002 : 72 :login is sucessfull : INFO
+2024-04-12 13:04:45,701 : Test_CredKart_Login : test_Login_002 : 77 :taking the screenshots : INFO
+2024-04-12 13:04:45,704 : Test_CredKart_Login : test_Login_002 : 83 :Testcase is completed : INFO
+2024-04-12 13:06:04,693 : Test_CredKart_Login : test_Login_002 : 52 :Opening the browser : INFO
+2024-04-12 13:06:05,344 : Test_CredKart_Login : test_page_title_001 : 17 :this is info : INFO
+2024-04-12 13:06:05,344 : Test_CredKart_Login : test_page_title_001 : 18 :this is warning : WARNING
+2024-04-12 13:06:05,344 : Test_CredKart_Login : test_page_title_001 : 19 :this is error : ERROR
+2024-04-12 13:06:05,344 : Test_CredKart_Login : test_page_title_001 : 20 :this is critical : CRITICAL
+2024-04-12 13:06:05,344 : Test_CredKart_Login : test_page_title_001 : 22 :stared test case test_page_title_001 : INFO
+2024-04-12 13:06:05,344 : Test_CredKart_Login : test_page_title_001 : 23 :Opening the browser : INFO
+2024-04-12 13:06:06,016 : Test_CredKart_Login : test_Login_002 : 59 :Entering the mail : INFO
+2024-04-12 13:06:06,172 : Test_CredKart_Login : test_Login_002 : 64 :Entering the Password : INFO
+2024-04-12 13:06:06,372 : Test_CredKart_Login : test_page_title_001 : 30 :checking the page titleCredKart : INFO
+2024-04-12 13:06:06,665 : Test_CredKart_Login : test_page_title_001 : 33 :taking the screenshots : INFO
+2024-04-12 13:06:06,744 : Test_CredKart_Login : test_page_title_001 : 36 :Testcase test_login.py  is passed : INFO
+2024-04-12 13:06:06,744 : Test_CredKart_Login : test_page_title_001 : 46 :Testcase is completed : INFO
+2024-04-12 13:06:08,498 : Test_CredKart_Login : test_Login_002 : 67 :click login button : INFO
+2024-04-12 13:06:11,515 : Test_CredKart_Login : test_Login_002 : 70 :checking the login status : INFO
+2024-04-12 13:06:11,519 : Test_CredKart_Login : test_Login_002 : 72 :login is sucessfull : INFO
+2024-04-12 13:06:17,825 : Test_CredKart_Login : test_Login_002 : 77 :taking the screenshots : INFO
+2024-04-12 13:06:17,825 : Test_CredKart_Login : test_Login_002 : 83 :Testcase is completed : INFO

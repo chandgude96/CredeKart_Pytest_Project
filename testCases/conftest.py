@@ -31,11 +31,10 @@ def setup(browser):
         print("Launching Edge Browser")
     else:
         print("headlessmode")
-        chrome_options = webdriver.ChromeOptions
+        chrome_options = webdriver.ChromeOptions()
         chrome_options.add_argument("headless")
-        driver = webdriver.Chrome(options=chrome_options)
-
-
+        # driver = webdriver.Chrome(options=chrome_options)
+        driver = webdriver.Chrome()
 
     driver.maximize_window()
     driver.implicitly_wait(10)

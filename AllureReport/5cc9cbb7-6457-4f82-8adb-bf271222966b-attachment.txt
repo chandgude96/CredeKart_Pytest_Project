@@ -1,0 +1,8 @@
+[32mINFO    [0m Test_CredKart_Login:test_login.py:52 Opening the browser
+[32mINFO    [0m Test_CredKart_Login:test_login.py:59 Entering the mail
+[32mINFO    [0m Test_CredKart_Login:test_login.py:64 Entering the Password
+[32mINFO    [0m Test_CredKart_Login:test_login.py:67 click login button
+[32mINFO    [0m Test_CredKart_Login:test_login.py:70 checking the login status
+[32mINFO    [0m Test_CredKart_Login:test_login.py:72 login is sucessfull
+[32mINFO    [0m Test_CredKart_Login:test_login.py:77 taking the screenshots
+[32mINFO    [0m Test_CredKart_Login:test_login.py:83 Testcase is completed

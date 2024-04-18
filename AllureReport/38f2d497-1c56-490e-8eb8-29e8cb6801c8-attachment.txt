@@ -1,0 +1,10 @@
+[32mINFO    [0m Test_CredKart_Login:test_login.py:17 this is info
+[33mWARNING [0m Test_CredKart_Login:test_login.py:18 this is warning
+[31m[1mERROR   [0m Test_CredKart_Login:test_login.py:19 this is error
+[31mCRITICAL[0m Test_CredKart_Login:test_login.py:20 this is critical
+[32mINFO    [0m Test_CredKart_Login:test_login.py:22 stared test case test_page_title_001
+[32mINFO    [0m Test_CredKart_Login:test_login.py:23 Opening the browser
+[32mINFO    [0m Test_CredKart_Login:test_login.py:30 checking the page titleCredKart
+[32mINFO    [0m Test_CredKart_Login:test_login.py:33 taking the screenshots
+[32mINFO    [0m Test_CredKart_Login:test_login.py:36 Testcase test_login.py  is passed
+[32mINFO    [0m Test_CredKart_Login:test_login.py:46 Testcase is completed
